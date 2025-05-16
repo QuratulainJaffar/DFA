@@ -1,4 +1,4 @@
-# Seismic Fractal Dimension Analysis
+# Seismic data- fractal dimension analysis
 
 This Python project calculates the fractal dimension of seismic signals using a variogram estimator method.
 
@@ -9,14 +9,4 @@ This Python project calculates the fractal dimension of seismic signals using a 
 - Plots both seismic waveform and fractal dimensions over time  
 - Saves results to `output.txt`
 
-## Requirements
 
-- Python 3.7+  
-- ObsPy  
-- NumPy  
-- Matplotlib
-
-Install dependencies with:
-
-```bash
-pip install obspy numpy matplotlib
